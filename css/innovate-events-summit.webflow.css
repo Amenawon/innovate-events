@@ -1191,7 +1191,7 @@ figcaption {
   grid-column-gap: 2rem;
   grid-row-gap: 4rem;
   grid-template-rows: auto;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-auto-columns: 1fr;
   place-items: stretch stretch;
   display: grid;
